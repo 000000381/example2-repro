@@ -4,7 +4,7 @@ Reproducibility code for Example 2 in the revised manuscript.
 Tested environment: MATLAB R2024a (not tested on other versions).
 
 How to run:
-1.Download the repository.
+1.Download Run_Example.m.
 2.Open MATLAB R2024a and set the current folder to the repository root.
 3.Run Run_Example2.m.
 
